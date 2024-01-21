@@ -87,7 +87,7 @@ public class Home_page extends JFrame  {
         number.setBackground(new Color(255, 255, 204));
         add(number);
 
-        special = new JCheckBox("Specail character ");
+        special = new JCheckBox("Special character ");
         special.setBounds(710, 300, 120, 30);
         special.setForeground(new Color(0, 0, 0));
         special.setBackground(new Color(255, 255, 204));
